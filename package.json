@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "cloudflare-scrape": "^0.0.2",
+    "cloudscraper": "^4.6.0",
+    "express": "^5.1.0",
+    "form-data": "^4.0.2",
+    "node-adyen-encrypt": "^2.3.1",
+    "node-jose": "^2.2.0"
+  },
+  "description": ""
+}
